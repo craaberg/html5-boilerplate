@@ -4,4 +4,11 @@
 node_modules
 dist
 .cache
+
+# gitignore file
 /credentials.py
+
+# gitignore folder
+#text/
+# gitignore certain files in folder
+text/*.txt
